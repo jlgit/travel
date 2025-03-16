@@ -81,7 +81,7 @@ export const hotelsData = [
   {
     id: 4,
     image: "/images/h4.jpg",
-    name: "Hilton Roma Luxury Hotel Palace",
+    name: "Hilton Roma Luxury Hotel Palace in Italy",
     location: "Vaticano Prati, Rome",
     rating: 4.5,
     reviews: "2,876",
